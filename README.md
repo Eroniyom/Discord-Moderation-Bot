@@ -190,7 +190,7 @@ If you encounter any issues or have questions:
 
 1. Check the [Issues](https://github.com/yourusername/discord-moderation-bot/issues) page
 2. Create a new issue if your problem isn't already reported
-3. Join our [Discord server](https://discord.gg/your-invite) for community support
+3. Join our [Discord server](https://discord.gg/xCpf6X8hGE) for community support
 
 ## 🔮 Roadmap
 
@@ -211,5 +211,6 @@ If you encounter any issues or have questions:
 ---
 
 **Made with ❤️ for the Discord community**
+
 
 *If you find this bot helpful, please consider giving it a ⭐ on GitHub!*
